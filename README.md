@@ -1,3 +1,9 @@
+# Lambda TCP Web Server
+
+Allow Lambda Functions to receive TCP Traffic via this repo. Code originally written by Matthew Wachter. Adopted to work to Lambda by me
+
+https://github.com/matthewwachter/py-tcp-threaded-server
+
 ## Developing
 ```sh
 python3 -m venv venv
